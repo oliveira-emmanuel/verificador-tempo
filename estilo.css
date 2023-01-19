@@ -1,0 +1,49 @@
+body {
+background-color: rgba(57, 57, 245, 0.733);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1rem;
+}
+ 
+header {
+  color: #ffff;
+text-align: center;
+}
+
+section {
+
+  background-color: #ebe8e88a;
+  font-size: x-large;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.300);
+  
+}
+
+div#msg {
+  margin-bottom: 20px;
+}
+
+footer {
+  
+  color: #ffff;
+ text-align: center;
+ font-style: italic;
+}
+
+footer a {
+  text-decoration: none;
+  color: #fff
+ }
+
+ footer a:hover{
+  text-decoration: underline;
+   }
+
+   div {
+    text-align: center;
+   }
+
+
+ 
